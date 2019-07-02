@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>DotFeather.Audio.Groorine</id>
+    <version>1.0.0</version>
+    <title>DotFeather.Audio.Groorine</title>
+    <authors>Xeltica</authors>
+    <owners>Xeltica</owners>
+    <license type="expression">MIT</license>
+    <description>Groorine Adapter for DotFeather</description>
+    <projectUrl>https://github.com/xeltica/DotFeather.Audio.Groorine</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <copyright>(C)2019 Xeltica</copyright>
+  </metadata>
+</package>
