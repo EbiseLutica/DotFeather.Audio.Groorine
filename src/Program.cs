@@ -7,7 +7,7 @@ using DotFeather;
 using Groorine;
 using Groorine.DataModel;
 
-namespace Example
+namespace DotFeather
 {
     public class GroorineAudioSource : IAudioSource
     {
